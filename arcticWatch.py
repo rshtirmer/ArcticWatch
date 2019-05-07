@@ -49,11 +49,11 @@ def updateChart(exchange, symbol, tf, height):
     exchangeStr = exchangeStr + Style.RESET_ALL
 
     os.system('clear')
-    print('Exchange: {}'.format(exchangeStr))
-    print('Symbol: {}'.format(symbol))
-    print('Timeframe: {}'.format(tf))
-    print('Price: {}'.format(priceStr))
-    print('{}'.format(chart))
+    print(f'Exchange: {exchangeStr}')
+    print(f'Symbol: {symbol}')
+    print(f'Timeframe: {tf}')
+    print(f'Price: {priceStr}')
+    print(f'{chart}')
     time.sleep(15)
 
 
