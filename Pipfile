@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+arctic = "==1.79.1"
+asciichartpy = "==1.5.7"
+colorama = "==0.4.1"
+decorator = "==4.4.0"
+enum-compat = "==0.0.2"
+futures = "==3.1.1"
+lz4 = "==2.1.6"
+mockextras = "==1.0.2"
+numpy = "==1.16.3"
+pandas = "==0.24.2"
+pymongo = "==3.8.0"
+python-dateutil = "==2.8.0"
+pytz = "==2019.1"
+six = "==1.12.0"
+tzlocal = "==1.5.1"
+
+[requires]
+python_version = "3.7"

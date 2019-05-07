@@ -81,5 +81,4 @@ def main():
         updateChart(args.exchange, args.symbol, args.tf, args.height)
 
 if __name__== "__main__":
-  main()
-                                                                                                                                                                                1,25          Top
+    main()
