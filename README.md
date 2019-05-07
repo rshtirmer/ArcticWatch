@@ -1,5 +1,6 @@
 # ArcticWatch
-## Visualize CryptoStore trade data
+## 
+Visualize CryptoStore trade data
 =====
 
 ![alt text](https://raw.githubusercontent.com/rshtirmer/ArcticWatch/master/example.png)
