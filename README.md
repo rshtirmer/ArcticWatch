@@ -1,17 +1,18 @@
 # ArcticWatch
 ## Visualize CryptoStore trade data
+=====
+
 ![alt text](https://raw.githubusercontent.com/rshtirmer/ArcticWatch/master/example.png)
 
-## Dependencies:  
-Cryptostore (Arctic)  
-Asciichartpy  
-Colorama  
+Dependencies
+=====
+    Cryptostore (Arctic)  
+    Asciichartpy  
+    Colorama  
 
 
 Usage
 =====
-
-::
 
     usage: articascii.py [-h] [--exchange EXCHANGE] [--symbol SYMBOL] [--tf TF]
                      [--height HEIGHT]
