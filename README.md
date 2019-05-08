@@ -1,7 +1,7 @@
 # ArcticWatch for [Cryptostore](https://github.com/bmoscon/cryptostore)
 ## Visualize trade data
 
-![alt text](https://raw.githubusercontent.com/rshtirmer/ArcticWatch/master/example.png)
+![alt text](https://raw.githubusercontent.com/rshtirmer/ArcticWatch/master/tmux.png)
 
 
 ## Usage
