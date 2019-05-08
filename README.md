@@ -7,7 +7,7 @@
 ## Usage
 
 
-    usage: articascii.py [-h] [--exchange EXCHANGE] [--symbol SYMBOL] [--tf TF]
+    usage: arcticWatch.py	.py [-h] [--exchange EXCHANGE] [--symbol SYMBOL] [--tf TF]
                      [--height HEIGHT]
 
     optional arguments:
